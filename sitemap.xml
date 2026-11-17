@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jisicloudyun.lol/</loc>
+    <lastmod>2026-11-17</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -18,34 +19,42 @@
   </url>
   <url>
     <loc>https://jisicloudyun.lol/news.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/sitemap.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/developer-api-connectivity.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/digital-life-transformation.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/ecommerce-speed-profit.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/public-wifi-stealth.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/video-conference-routing.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jisicloudyun.lol/web3-connection-challenges.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
